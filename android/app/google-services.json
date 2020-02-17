@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "298215078564",
+    "firebase_url": "https://myblog-8f6ce.firebaseio.com",
+    "project_id": "myblog-8f6ce",
+    "storage_bucket": "myblog-8f6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298215078564:android:edb840a30529692b2ec431",
+        "android_client_info": {
+          "package_name": "com.example.ahmed_alsodani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298215078564-f36mkmc8qk9baekvbs0c5k8khaf8u0gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_iUk4R2ZcqF8hcwVi22CEU11Hh38T-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298215078564-f36mkmc8qk9baekvbs0c5k8khaf8u0gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
